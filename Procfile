@@ -1,1 +1,1 @@
-web: gunicorn YamLogin.wsgi
+web: gunicorn website.wsgi
